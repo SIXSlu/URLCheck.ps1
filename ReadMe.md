@@ -4,7 +4,7 @@ This is a super simple Base64 encoded PowerShell script wrapped in a batchfile
 
 *it generates logfile.txt that contains the following information:
 
-  SiteName: <url> ErrorCode: <HTTP Error code or System error Notification> TimeStamp: <Windows Native Timestamp>
+  SiteName: \<url\> ErrorCode: \<HTTP Error code or System error Notification\> TimeStamp: \<Windows Native Timestamp\>
 
 
 
